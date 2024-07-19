@@ -132,7 +132,3 @@ The consumer is a CLI tool that polls the queue service for new messages from a 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the content based on any specific requirements or additional details you may have.
