@@ -1,7 +1,3 @@
-Here's a README in markdown format that explains the entire project, including how it works and how to use it.
-
----
-
 # Custom Messaging Queue Service
 
 This project implements a simple custom messaging queue service using Python. It includes a publisher that sends messages to a queue, a consumer that retrieves messages from the queue, and a queue service hosted on `localhost` using Flask. The system provides one-way persistent communication, ensuring that messages are delivered and consumed reliably.
